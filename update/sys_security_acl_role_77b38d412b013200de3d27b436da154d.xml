@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-18 06:35:23</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>77b38d412b013200de3d27b436da154d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_26969_git_video_some_table.x_26969_git_video_some_table_user</sys_name>
+        <sys_package display_value="Git Video" source="x_26969_git_video">3d4309012b013200de3d27b436da155c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Git Video">3d4309012b013200de3d27b436da155c</sys_scope>
+        <sys_security_acl display_value="x_26969_git_video_some_table">bfb38d412b013200de3d27b436da154b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_77b38d412b013200de3d27b436da154d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-18 06:35:23</sys_updated_on>
+        <sys_user_role display_value="x_26969_git_video_some_table_user" name="x_26969_git_video_some_table_user">bab309012b013200de3d27b436da15d0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
